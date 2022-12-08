@@ -41,8 +41,3 @@ while True:
         print("ERRO!Opção Inválida!")
 
 print('-=' * 30)
-
-
-
-
-
